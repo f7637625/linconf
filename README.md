@@ -3,4 +3,6 @@ git & github test
 windows拷貝至 system32\driver\
 linux拷貝至 /lincof
 wsl端新增的文件說明
+使用時大小寫區分
+2024/06/13
 #
